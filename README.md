@@ -17,7 +17,7 @@ If you are under windows, type:
 
 <h2>Usage</h2>
 Just type on a terminal:
-<pre>python3 predator.py</pre>
+<pre>python3 fucknigger.py</pre>
 
 Or double click on the program in windows.
 

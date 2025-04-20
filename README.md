@@ -34,7 +34,7 @@ All proxies get auto updated every 10 minutes
 
 
 
-![fucknigger-logo](https://github.com/ddosvvi/FUCKNIGGER/blob/main/fucknigger-logo.png)
+![fucknigger-logo](https://github.com/ddosvvi/FUCKNIGGER/blob/main/CUKIMAI/fucknigger-logo.png)
 <br>
 ![test-ddos](https://user-images.githubusercontent.com/60778335/173589414-2128fde9-eb5c-446a-86cb-d188675aed99.png)
 
